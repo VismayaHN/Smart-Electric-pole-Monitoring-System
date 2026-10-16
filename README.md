@@ -67,17 +67,15 @@ Electric poles can tilt or fall because of storms, accidents or soil erosion, an
 | 1 | ESP32 DevKit | 1 | Main controller |
 | 2 | ADXL345 accelerometer | 1 | Detects pole tilt (I2C) |
 | 3 | ACS712 5A current sensor | 1 | Measures line current |
-| 4 | Red LED | 1 | Fault indication |
-| 5 | Green LED | 1 | Normal indication |
-| 6 | 220 Ω resistor | 2 | Current limiting for LEDs |
-| 7 | 10 kΩ resistor | 1 | Voltage divider (upper) |
-| 8 | 20 kΩ resistor | 1 | Voltage divider (lower) |
-| 9 | Small torch bulb (3 V–6 V) | 1 | Load for the line |
-| 10 | 4 V battery | 1 | Power source |
-| 11 | 5 V boost converter (fixed, USB type) | 1 | Steps battery up to 5 V |
-| 12 | Breadboard and jumper wires | - | Connections |
-| 13 | PVC pipes (poles) | - | Model poles |
-| 14 | Aluminium wire | - | Simulated power line |
+| 4 | RGB lED |1| fault and normal indication
+| 5 | 220 Ω resistor | 2 | Current limiting for LEDs |
+| 6 | 10 kΩ resistor | 2 | Voltage divider 
+| 7 | Small torch bulb (3 V–6 V) | 1 | Load for the line |
+| 8 | 4 V battery | 1 | Power source |
+| 9 | 5 V boost converter (fixed, USB type) | 1 | Steps battery up to 5 V |
+| 10 | Breadboard and jumper wires | - | Connections |
+| 11 | PVC pipes (poles) | - | Model poles |
+| 12 | Aluminium wire | - | Simulated power line |
 
 ## 🔌 Pin Connections
 
