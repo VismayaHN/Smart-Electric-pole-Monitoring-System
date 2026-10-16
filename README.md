@@ -72,7 +72,7 @@ Electric poles can tilt or fall because of storms, accidents or soil erosion, an
 | 6 | 10 kΩ resistor | 2 | Voltage divider 
 | 7 | Small torch bulb (3 V–6 V) | 1 | Load for the line |
 | 8 | 4 V battery | 1 | Power source |
-| 9 | 5 V boost converter (fixed, USB type) | 1 | Steps battery up to 5 V |
+| 9 | 5 V charging module (fixed, USB type) | 1 | Steps battery up to 5 V |
 | 10 | Breadboard and jumper wires | - | Connections |
 | 11 | PVC pipes (poles) | - | Model poles |
 | 12 | Aluminium wire | - | Simulated power line |
